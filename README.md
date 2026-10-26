@@ -118,4 +118,3 @@ ani-cli is a third-party open-source tool and is not affiliated with any streami
 
 - Instagram: [@MK_ULTRA_MK_ULTRA](https://instagram.com/MK_ULTRA_MK_ULTRA)
 - YouTube: [@MK_ULTRA_MK_ULTRA](https://youtube.com/@MK_ULTRA_MK_ULTRA)
-- More Linux and cybersecurity guides coming soon.

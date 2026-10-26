@@ -12,7 +12,12 @@ A quick guide to watching anime straight from the terminal on Linux. No browser,
 
 
 
-https://github.com/user-attachments/assets/181c08a8-1bfe-4958-8f8e-18e722749d0a
+https://github.com/user-attachments/assets/a6f74476-8a66-4acc-b01e-52d7cbfd30d1
+
+
+
+
+
 
 
 

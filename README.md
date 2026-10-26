@@ -8,7 +8,12 @@ A quick guide to watching anime straight from the terminal on Linux. No browser,
 
 <!-- VIDEO: edit this README on github.com, delete the line below, and drag ani-cli.mp4 into its place. -->
 
-https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO-LINK
+
+
+https://github.com/user-attachments/assets/731714aa-8efa-4157-b7b2-677081df7e53
+
+
+
 
 *In the video: the repo, launching ani-cli, searching for a show, picking an episode, and watching it.*
 
